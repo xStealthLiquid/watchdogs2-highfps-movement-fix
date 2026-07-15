@@ -1,0 +1,10 @@
+# Build artifacts
+*.asi
+*.dll
+*.lib
+*.pdb
+*.obj
+*.exe
+*.zip
+.zig-cache/
+zig-out/
